@@ -174,6 +174,14 @@ PRESETS: dict[str, ColorProfile] = {
         '#770088'
     ]),
 
+    'greyromantic': ColorProfile([
+        '#087D16',
+        '#B0B1AF',
+        '#FFFFFF',
+        '#B0B1AF',
+        '#087D16'
+    ]),
+
     'transgender': ColorProfile([
         '#55CDFD',
         '#F6AAB7',
